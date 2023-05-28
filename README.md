@@ -1,0 +1,1 @@
+Este repositorio é um projeto pessoal para detecção de movimentos a partir da biblioteca openCV utilizando a linguagem python. O proposito dela é interpretar o que o usuário mostra com as mãos, a fim de traduzir e mostrar o significado. Futuramente tudo leva esta ferramenta a ser um interpretador de libras.
